@@ -1,0 +1,13 @@
+Hypothesis summary (alpha=0.05)
+w180_lag2_level: ['Post:Uptake180_per100', 'Post[T.True]:Uptake180_per100', 'Post[T.1]:Uptake180_per100', 'Uptake180_per100:Post[T.True]', 'Uptake180_per100:Post[T.1]']: est=0.000009, p=0.03576 -> REJECT H0 (effect)
+w180_lag2_slope: PostWeek:Uptake180_per100: est=0.000001, p=0.06562 -> FAIL TO REJECT H0
+w180_lag3_level: ['Post:Uptake180_per100', 'Post[T.True]:Uptake180_per100', 'Post[T.1]:Uptake180_per100', 'Uptake180_per100:Post[T.True]', 'Uptake180_per100:Post[T.1]']: est=0.000005, p=0.2127 -> FAIL TO REJECT H0
+w180_lag3_slope: PostWeek:Uptake180_per100: est=0.000000, p=0.8381 -> FAIL TO REJECT H0
+w180_lag4_level: ['Post:Uptake180_per100', 'Post[T.True]:Uptake180_per100', 'Post[T.1]:Uptake180_per100', 'Uptake180_per100:Post[T.True]', 'Uptake180_per100:Post[T.1]']: est=0.000000, p=0.9756 -> FAIL TO REJECT H0
+w180_lag4_slope: PostWeek:Uptake180_per100: est=-0.000001, p=0.4111 -> FAIL TO REJECT H0
+w270_lag2_level: ['Post:Uptake270_per100', 'Post[T.True]:Uptake270_per100', 'Post[T.1]:Uptake270_per100', 'Uptake270_per100:Post[T.True]', 'Uptake270_per100:Post[T.1]']: est=0.000001, p=0.2948 -> FAIL TO REJECT H0
+w270_lag2_slope: PostWeek:Uptake270_per100: est=0.000000, p=0.4761 -> FAIL TO REJECT H0
+w270_lag3_level: ['Post:Uptake270_per100', 'Post[T.True]:Uptake270_per100', 'Post[T.1]:Uptake270_per100', 'Uptake270_per100:Post[T.True]', 'Uptake270_per100:Post[T.1]']: est=0.000003, p=0.1327 -> FAIL TO REJECT H0
+w270_lag3_slope: PostWeek:Uptake270_per100: est=0.000000, p=0.08276 -> FAIL TO REJECT H0
+w270_lag4_level: ['Post:Uptake270_per100', 'Post[T.True]:Uptake270_per100', 'Post[T.1]:Uptake270_per100', 'Uptake270_per100:Post[T.True]', 'Uptake270_per100:Post[T.1]']: est=0.000006, p=0.0957 -> FAIL TO REJECT H0
+w270_lag4_slope: PostWeek:Uptake270_per100: est=0.000001, p=0.05481 -> FAIL TO REJECT H0

@@ -1,0 +1,5 @@
+=== Step 9: Final Interpretation ===
+Coefficient(Log_Vax): 0.0211
+P-value: 1.8324e-09
+⚠️ Unexpected: Vaccination appears positively associated with cases.
+Model R-squared: 0.133
